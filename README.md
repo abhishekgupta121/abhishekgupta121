@@ -1,3 +1,19 @@
+# Hi, I'm Abhishek Gupta 👋
+
+🎓 B.Tech CSE (Data Science) Student
+📍 Bhopal, Madhya Pradesh, India
+💡 Aspiring Data Scientist passionate about solving real-world problems using data.
+
+---
+
+## 🚀 About Me
+
+* 🔭 Currently learning **Data Science and Data Analysis**
+* 💻 Skilled in **Python, C++, and Data Structures & Algorithms**
+* 📊 Interested in **Data Visualization, Machine Learning, and Analytics**
+* 🧠 Love building projects that turn **data into insights*
+
+⭐ *Always learning and building new things with data.*
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Abhiicoder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhibgi11@gmail.com) 
